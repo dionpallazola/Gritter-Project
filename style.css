@@ -44,7 +44,7 @@
  }
 
  .avatar {
-     background-image: url("../images/better_than_drake.png");
+     background-image: url("../gritter/resources/images/better_than_drake.png");
      background-size: cover;
      height: 50px;
      width: 50px;
